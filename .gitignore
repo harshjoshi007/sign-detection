@@ -1,0 +1,21 @@
+# Data folders
+MP_Data/
+MP_Data_*/
+Logs/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
