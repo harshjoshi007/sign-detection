@@ -5,3 +5,4 @@ mediapipe
 tensorflow
 numpy
 av
+python-3.10
